@@ -24,5 +24,5 @@
 
 ### 📬 Contact & Links
 - **Email:** [s354773@studenti.polito.it](mailto:s354773@studenti.polito.it)
-- **Location:** Karlsruhe, Baden-Württemberg, Germany / Caraglio (CN), Italy
+- **Location:** Karlsruhe, Baden-Württemberg, Germany / Turin (TO), Italy
 - **Languages:** Italian (Native), English (C1 / Full Professional)
