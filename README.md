@@ -5,7 +5,7 @@
 
 ---
 
-### 🔬 Technical Background & Expertise
+### 🔬 Background
 - **Digital Hardware & SoC Design:** VHDL, RISC-V (Intel NIOS V), FPGA Architectures (Intel Cyclone V), Logic Synthesis & Timing (Quartus Prime, ModelSim).
 - **Embedded Firmware & Real-Time DSP:** Real-time Bare-Metal C (STM32, C6000 DSP), Hardware Interrupts (ISRs), Circular DMA, Audio Filtering & Lossless Compression.
 - **Custom IC Design (Virtuoso):** CMOS Logic, 6T SRAM Cell characterization, ADE (DC, Transient, Corners), DRC/LVS Layout Verification, Parasitic Extraction (PEX).
@@ -15,14 +15,12 @@
 ---
 
 ### 📁 Featured Projects & Repositories
-- 🛠️ **[soc-riscv-vhdl-de1soc](./soc-riscv-vhdl-de1soc):** RISC-V System-on-Chip on FPGA with custom VHDL memory-mapped peripherals and bare-metal C drivers.
-- ⚡ **[embedded-dsp-realtime](./embedded-dsp-realtime):** Real-time fixed-point audio filtering (FIR/IIR) and adaptive Rice-Golomb compression on DSP hardware.
-- 𝄠 **[cadence-virtuoso-cmos](./cadence-virtuoso-cmos):** Transistor-level CMOS logic and 6T SRAM stability characterization with DRC/LVS clean layouts.
-- 💡 **[photonic-components-simulation](./photonic-components-simulation):** Numerical simulation of optical thin films, MMI couplers, MRR filters, and EDFA amplifier characterization.
+- **[embedded-dsp-realtime](./embedded-dsp-realtime):** Real-time fixed-point audio filtering (FIR/IIR) and adaptive Rice-Golomb compression on DSP hardware.
+
 
 ---
 
 ### 📬 Contact & Links
 - **Email:** [s354773@studenti.polito.it](mailto:s354773@studenti.polito.it)
 - **Location:** Karlsruhe, Baden-Württemberg, Germany / Turin (TO), Italy
-- **Languages:** Italian (Native), English (C1 / Full Professional)
+- **Languages:** Italian (Native), English (C2 / Full Professional)
